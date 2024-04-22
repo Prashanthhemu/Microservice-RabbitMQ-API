@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "RabbitMqProductAPI\\RabbitMqProductAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "RabbitMqProductMqConsoleApp\\RabbitMqProductMqConsoleApp.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      }
+    ]
+  }
+]
